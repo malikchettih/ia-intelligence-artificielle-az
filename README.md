@@ -1,10 +1,8 @@
 # intelligence-artificielle-az
 https://www.udemy.com/intelligence-artificielle-az/learn/v4/content
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+## Course Notes
+- ![Section 3: Q-Learning](/Notes/Section 3/Q-Learning Intuition.md)
+
+## Course Matrials
+- https://gitlab.charlesbordet.com/charles/artificial_intelligence/tree/master
