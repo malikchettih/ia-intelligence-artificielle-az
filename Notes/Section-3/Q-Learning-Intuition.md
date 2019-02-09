@@ -10,3 +10,10 @@
 - https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf
 ### A Survey of Applications of Markov Decision Processes 
 - http://www.cs.uml.edu/ecg/uploads/AIfall14/MDPApplications3.pdf
+### Markov Decision Processes: Concepts and Algorithms
+- https://pdfs.semanticscholar.org/968b/ab782e52faf0f7957ca0f38b9e9078454afe.pdf
+### Learning to predict by the methods of temporal differences
+- https://link.springer.com/article/10.1007/BF00115009
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.7760&rep=rep1&type=pdf
+
+
