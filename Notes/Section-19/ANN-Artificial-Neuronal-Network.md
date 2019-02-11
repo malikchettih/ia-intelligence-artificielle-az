@@ -14,9 +14,8 @@
 ![Mise à jour des poids](Capture-003.JPG)
 ![Rétroprpagation](Capture-004.JPG)
 
-## Algorith du Gradien
-
-![Neurone](Capture-001.JPG)
+## Récap methodologie 
+![Neurone](Capture-006.JPG)
 
 ## Additional Resources
 
