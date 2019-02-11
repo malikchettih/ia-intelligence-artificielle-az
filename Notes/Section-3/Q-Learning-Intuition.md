@@ -1,16 +1,16 @@
 # Q-Learning : Intuition
 
 ## Notes 
-[Note 1/10](Section03-C001.jpg)
-[Note 2/10](Section03-C002.jpg)
-[Note 3/10](Section03-C003.jpg)
-[Note 4/10](Section03-C004.jpg)
-[Note 5/10](Section03-C005.jpg)
-[Note 6/10](Section03-C006.jpg)
-[Note 7/10](Section03-C007.jpg)
-[Note 8/10](Section03-C008.jpg)
-[Note 9/10](Section03-C009.jpg)
-[Note 10/10](Section03-C010.jpg)
+![Note 1/10](Section03-C001.jpg)
+![Note 2/10](Section03-C002.jpg)
+![Note 3/10](Section03-C003.jpg)
+![Note 4/10](Section03-C004.jpg)
+![Note 5/10](Section03-C005.jpg)
+![Note 6/10](Section03-C006.jpg)
+![Note 7/10](Section03-C007.jpg)
+![Note 8/10](Section03-C008.jpg)
+![Note 9/10](Section03-C009.jpg)
+![Note 10/10](Section03-C010.jpg)
 
 ## Additional Resources
 
