@@ -1,6 +1,10 @@
 # Deep Q Learning : Intuition
 
 ## Notes
+![Deep Learning](DeepLearning-C001.jpg)
+![Deep Learning](DeepLearning-C002.jpg)
+![Deep Learning](DeepLearning-C003.jpg)
+![Deep Learning](DeepLearning-C004.jpg)
 
 ## Additional Resources
 
