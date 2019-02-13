@@ -1,6 +1,6 @@
 # Installation Chapitre 1
 
-## Procédure Installation
+## Procédure Installation - Pytorch
 
 Il est recommandé de créer un environnement Anaconda au préalable. Un environnement permet d'installer des modules spécifiquement au projet sur lequel au travail, afin d'éviter les conflits entre différentes versions. Par exemple, si vous avez aussi suivi le cours Deep Learning de A à Z, il est important de séparer les deux projets dans deux environnements différents.
 
@@ -129,4 +129,16 @@ Pour lancer spyder lancer la commande spyder apres avoir activer l'environnement
 ```
 conda activate artificialintelligenceaz
 spyder
+```
+
+## Procédure Installation - Kivy
+
+Executer dans "Anaconda Prompt" en tant que admin, les commande suivantes:
+```
+python -m pip install --upgrade pip wheel setuptools
+python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
+python -m pip install kivy.deps.gstreamer
+python -m pip install kivy.deps.angle
+python -m pip install kivy
+python -m pip install pygame
 ```

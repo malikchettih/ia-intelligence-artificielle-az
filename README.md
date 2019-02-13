@@ -3,7 +3,8 @@ https://www.udemy.com/intelligence-artificielle-az/learn/v4/content
 
 ## Course Notes
 - [Section 3  : Q-Learning](/Notes/Section-3/Q-Learning-Intuition.md)
-- [Section 5  : Deep Q-Learning](/Notes/Section-5/Deep-Q-Learning-Intuition .md)
+- [Section 5  : Deep Q-Learning](/Notes/Section-5/Deep-Q-Learning-Intuition.md)
+- [Section 9  : Installation encvironnement](/Notes/Section-9/Installation-chap1.md)
 - [Section 19 : Annexe 1 ANN Artificial Neuronal Network](/Notes/Section-19/ANN-Artificial-Neuronal-Network.md)
 
 ## Course Matrials
